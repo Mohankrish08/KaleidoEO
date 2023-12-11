@@ -45,6 +45,10 @@ This is the dataset prepration for the project.
 
 **Results**: Delivered a user-friendly dashboard to interact with the trained models.
 
+Working demo:
+
+![Demo](images/woking.gif)
+
 
 ## Task 4: Drift Detection Implementation
 
