@@ -13,7 +13,7 @@ Integration: Incorporated model loading and prediction functionalities within th
 Visualization: Enabled the display of model outputs or classification results for user-friendly interpretation.
 When we give a image input, it generated to the segmentated output. 
 
-![workflow](images/working.gif)
+![workflow](images/woking.gif)
 
 ### User Experience Optimization:
 Iteratively refined the interface to enhance user experience and clarity in displaying model outputs.
