@@ -51,3 +51,11 @@ This is the dataset prepration for the project.
 **Objective**: Implemented a drift detection mechanism to monitor data distribution changes.
 
 **Implementation**: Utilized standard drift metrics like Cross-Entropy, KL Divergence for deviations from the training data distribution.
+
+## Task 5: Docker Compose Deployment
+
+**Objective**: Created a Docker Compose configuration to containerize the inference dashboard and drift detection program.
+
+**Implementation**: Configured Docker Compose for seamless deployment of the dashboard and drift detection program.
+
+**Results**: Deployed the components in containers for easy deployment and management.
