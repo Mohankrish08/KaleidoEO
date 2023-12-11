@@ -24,7 +24,7 @@ def loader_url(url):
 
 # lottie files
 
-icon = loader_url('https://lottie.host/395bfca4-62be-47a0-9a89-c6abade8d690/ZLRP88UkIM.json')
+icon = loader_url('https://lottie.host/93d70947-ecf4-4aaf-be0c-2f19e11ae8aa/7jZ0o76bAw.json')
 
 
 # main code
