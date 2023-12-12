@@ -35,7 +35,7 @@ This is the dataset prepration for the project.
 
 **Wandb** - Weights & Biases (wandb) tracking is a versatile tool that facilitates real-time visualization and logging of model training metrics, hyperparameters, and system-level performance, enabling comprehensive experiment tracking and analysis for enhanced model iteration and optimization.
 
-[Model Tacking](https://api.wandb.ai/links/mohankrishce/b87flof3)
+[Model Tracking](https://api.wandb.ai/links/mohankrishce/b87flof3)
 
 ## Task 3: Inference Dashboard Development
 
